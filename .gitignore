@@ -1,0 +1,13 @@
+**/obj/
+**/bin/
+*.o
+*.a
+*.dll
+*.debug
+*.map
+*.log
+*.ppm
+*.cfg
+gmon.out
+.DS_Store
+Thumbs.db
